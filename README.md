@@ -74,4 +74,4 @@ An educational robotics platform for students and beginners.
 - Email: daveemanuel.lima@wvsu.edu.ph
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeybLims&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evren&layout=compact&theme=tokyonight)
