@@ -72,3 +72,6 @@ An educational robotics platform for students and beginners.
 - GitHub: [DeybLims](https://github.com/DeybLims)
 - LinkedIn: [Dave Emanuel Lima](https://www.linkedin.com/in/dave-emanuel-lima-a65856326)
 - Email: daveemanuel.lima@wvsu.edu.ph
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeybLims&layout=compact&theme=tokyonight)
