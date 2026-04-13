@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=DeybLimsE&label=Profile+Views&color=3b82f6&style=for-the-badge)
+
 # 👋 Hi, I’m Dave Emanuel Lima
 
 🎓 **Bachelor of Science in Computer Science**  
@@ -74,5 +76,4 @@ An educational robotics platform for students and beginners.
 - Email: daveemanuel.lima@wvsu.edu.ph
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeybLims&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DeybLims)](https://git.io/streak-stats)
