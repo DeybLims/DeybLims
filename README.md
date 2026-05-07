@@ -10,11 +10,11 @@ Developing data-driven solutions that solve practical problems and deliver impac
 
 ### 🚀 About Me
 
-- 🔭 **Currently working on:** Enhancing internal ERP workflows and building scalable reservation, tracking, and AI-powered systems.
+- 🔭 **Currently working on:** Enhancing internal ERP workflows and building scalable AI-powered systems.
 - 🌱 **Currently deep-diving into:** Advanced Next.js caching, scalable cloud architectures, and optimizing Python backends.
 - 💼 **Open to:** Full-time remote opportunities or freelance projects. 
 - 🎓 **Education:** B.S. in Computer Science (Major in Artificial Intelligence), West Visayas State University.
-- ⚡ **Fun fact:** When I'm not coding, I'm researching high-performance, white-themed PC builds or experimenting with algorithmic music composition using Strudel.
+- ⚡ **Fun fact:** When I'm not coding, I'm just playing Valorant.
 
 ---
 
@@ -57,7 +57,7 @@ Developing data-driven solutions that solve practical problems and deliver impac
 
 ### 📈 Experience Snapshot
 
-* **Web Developer & ERPNext Developer** @ *Quirao Group of Companies* (2026)
+* **ERPNext Developer** @ *Quirao Group of Companies* (2026)
 * **Front-End Web Developer** @ *MSL Philippines* (2026)
 * **Junior Software Engineer** @ *BuildMaster* (2025–2026)
 
@@ -66,7 +66,7 @@ Developing data-driven solutions that solve practical problems and deliver impac
 ### 📫 Connect with Me
 
 * **Email:** [daveemanuel.lima@wvsu.edu.ph](mailto:daveemanuel.lima@wvsu.edu.ph)
-* **Portfolio:** [https://davelims.vercel.app]([https://davelims.vercel.app/])
+* **Portfolio:** [https://davelims.vercel.app](https://davelims.vercel.app/)
 
 <p align="center">
   <em>Always ensuring `git commit -m` is properly flagged and ready to deploy.</em>
