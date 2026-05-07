@@ -32,6 +32,8 @@ Developing data-driven solutions that solve practical problems and deliver impac
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-%230089FF.svg?style=for-the-badge)
+![ERPNext](https://img.shields.io/badge/ERPNext-%230089FF.svg?style=for-the-badge)
 
 **Database & Cloud:**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -44,6 +46,7 @@ Developing data-driven solutions that solve practical problems and deliver impac
 ### 🛠️ Featured Projects
 
 * **PinPoint** – A smart geofenced attendance and time-aware student portal built with Laravel and React, enforcing GPS and schedule rules via REST APIs.
+* **Internal ERP System** – Configured subsidiary management, developed custom attendance reports, and engineered Jinja templates for official print formats using the Frappe framework and ERPNext.
 * **ColorAid** – An accessibility-focused web application integrating real-time adaptive color correction for individuals with color vision deficiencies (Python, Flask, GCP).
 * **Paluto** – A full-stack reservation app for food orders utilizing a Python backend interfaced with the Google Sheets API.
 * **BuildMaster** – E-commerce marketplace platform focusing on multi-image support, custom admin panels, and optimized multi-merchant checkouts.
@@ -63,7 +66,7 @@ Developing data-driven solutions that solve practical problems and deliver impac
 ### 📫 Connect with Me
 
 * **Email:** [daveemanuel.lima@wvsu.edu.ph](mailto:daveemanuel.lima@wvsu.edu.ph)
-* **Portfolio:** [web-portfolio-wine-nine.vercel.app](https://web-portfolio-wine-nine.vercel.app/)
+* **Portfolio:** [web-portfolio-wine-nine.vercel.app]([https://web-portfolio-wine-nine.vercel.app/](https://davelims.vercel.app/))
 
 <p align="center">
   <em>Always ensuring `git commit -m` is properly flagged and ready to deploy.</em>
