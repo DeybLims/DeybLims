@@ -66,7 +66,7 @@ Developing data-driven solutions that solve practical problems and deliver impac
 ### 📫 Connect with Me
 
 * **Email:** [daveemanuel.lima@wvsu.edu.ph](mailto:daveemanuel.lima@wvsu.edu.ph)
-* **Portfolio:** [web-portfolio-wine-nine.vercel.app]([https://web-portfolio-wine-nine.vercel.app/](https://davelims.vercel.app/))
+* **Portfolio:** [https://davelims.vercel.app]([https://davelims.vercel.app/])
 
 <p align="center">
   <em>Always ensuring `git commit -m` is properly flagged and ready to deploy.</em>
