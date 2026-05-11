@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=DeybLimsE&label=Profile+Views&color=3b82f6&style=for-the-badge)
-
 # Hi there, I'm Dave Emanuel G. Lima 👋
 
 **Versatile Software Engineer | Full-Stack Developer | AI Enthusiast**
@@ -10,36 +8,35 @@ Developing data-driven solutions that solve practical problems and deliver impac
 
 ### 🚀 About Me
 
-- 🔭 **Currently working on:** Enhancing internal ERP workflows and building scalable AI-powered systems.
+- 🔭 **Currently working on:** Enhancing internal ERP workflows and building scalable reservation, tracking, and AI-powered systems.
 - 🌱 **Currently deep-diving into:** Advanced Next.js caching, scalable cloud architectures, and optimizing Python backends.
 - 💼 **Open to:** Full-time remote opportunities or freelance projects. 
 - 🎓 **Education:** B.S. in Computer Science (Major in Artificial Intelligence), West Visayas State University.
-- ⚡ **Fun fact:** When I'm not coding, I'm just playing Valorant.
+- ⚡ **Fun fact:** When I'm not coding, I'm researching high-performance, white-themed PC builds or experimenting with algorithmic music composition using Strudel.
 
 ---
 
-### 💻 Tech Stack
+### 💼 Tech & Tools
 
-**Frontend:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat-square) ![Frappe Framework](https://img.shields.io/badge/Frappe_Framework-0089FF?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Backend:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Frappe](https://img.shields.io/badge/Frappe-%230089FF.svg?style=for-the-badge)
-![ERPNext](https://img.shields.io/badge/ERPNext-%230089FF.svg?style=for-the-badge)
+---
 
-**Database & Cloud:**
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeybLims&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DeybLims&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="DeybLims Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -57,7 +54,7 @@ Developing data-driven solutions that solve practical problems and deliver impac
 
 ### 📈 Experience Snapshot
 
-* **ERPNext Developer** @ *Quirao Group of Companies* (2026)
+* **Web Developer & ERPNext Developer** @ *Quirao Group of Companies* (2026)
 * **Front-End Web Developer** @ *MSL Philippines* (2026)
 * **Junior Software Engineer** @ *BuildMaster* (2025–2026)
 
@@ -71,7 +68,3 @@ Developing data-driven solutions that solve practical problems and deliver impac
 <p align="center">
   <em>Always ensuring `git commit -m` is properly flagged and ready to deploy.</em>
 </p>
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DeybLims)](https://git.io/streak-stats)
