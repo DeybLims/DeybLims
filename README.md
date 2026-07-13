@@ -1,68 +1,99 @@
 ![Dave Emanuel G. Lima — Full Stack Developer](dark.svg?sanitize=true#gh-dark-mode-only)
 ![Dave Emanuel G. Lima — Full Stack Developer](light.svg?sanitize=true#gh-light-mode-only)
 
-Developing data-driven solutions that solve practical problems and deliver impactful digital experiences. From concept to deployment, I specialize in building full-stack web and mobile applications with modern technologies.
+### Full Stack Developer · AI Major · Philippines
 
----
-### 🚀 About Me
+I build full-stack web and mobile products — ERP workflows, geofenced portals, e-commerce platforms, and AI-powered tools. Focused on shipping reliable software with clean architecture and thoughtful UX.
 
-- 🔭 **Currently working on:** Enhancing internal ERP workflows and building scalable reservation, tracking, and AI-powered systems.
-- 🌱 **Currently deep-diving into:** Advanced Next.js caching, scalable cloud architectures, and optimizing Python backends.
-- 💼 **Open to:** Full-time remote opportunities or freelance projects. 
-- 🎓 **Education:** B.S. in Computer Science (Major in Artificial Intelligence), West Visayas State University.
-- ⚡ **Fun fact:** When I'm not coding, I'm researching high-performance, white-themed PC builds or experimenting with algorithmic music composition using Strudel.
+[![Portfolio](https://img.shields.io/badge/Portfolio-davelims.vercel.app-22D3EE?style=for-the-badge)](https://davelims.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-daveemanuel.lima%40wvsu.edu.ph-7C3AED?style=for-the-badge)](mailto:daveemanuel.lima@wvsu.edu.ph)
+[![GitHub](https://img.shields.io/badge/GitHub-DeybLims-0F172A?style=for-the-badge&logo=github)](https://github.com/DeybLims)
 
 ---
 
-### 💼 Tech & Tools
+### About Me
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat-square) ![Frappe Framework](https://img.shields.io/badge/Frappe_Framework-0089FF?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+- 🔭 **Currently working on:** Internal ERP workflows, reservation systems, and AI-powered tracking tools
+- 🌱 **Learning:** Advanced Next.js caching, cloud architecture, and Python backend optimization
+- 💼 **Open to:** Full-time remote roles and freelance projects
+- 🎓 **Education:** B.S. Computer Science (AI Major) — West Visayas State University
+- ⚡ **Fun fact:** I tinker with white-themed PC builds and algorithmic music in [Strudel](https://strudel.cc/) when I'm not coding
 
 ---
 
-### 📊 GitHub Stats
+### Tech Stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Data & Cloud**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Enterprise**  
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat-square)
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeybLims&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DeybLims&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=DeybLims&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeybLims&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
-### 🏆 Trophies
+### Featured Projects
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **PinPoint** | Geofenced attendance & time-aware student portal with GPS and schedule enforcement | Laravel · React · REST APIs |
+| **Internal ERP System** | Subsidiary management, custom attendance reports, and Jinja print templates | Frappe · ERPNext · Python |
+| **ColorAid** | Real-time adaptive color correction for color vision deficiencies | Python · Flask · GCP |
+| **BuildMaster** | Multi-merchant e-commerce with custom admin panels and optimized checkout | Full Stack · Node.js |
+| **Paluto** | Food reservation app with Python backend and Google Sheets integration | Python · Google Sheets API |
+| **Story Creation with Gemini** | AI storytelling app that generates dynamic narratives from user input | Gemini API · Web |
+| **Káon** | Mobile calorie and food intake tracker | Flutter · Dart |
+
+---
+
+### Experience
+
+| Role | Company | Period |
+| :--- | :--- | :--- |
+| Web Developer & ERPNext Developer | Quirao Group of Companies | 2026 |
+| Front-End Web Developer | MSL Philippines | 2026 |
+| Junior Software Engineer | BuildMaster | 2025 – 2026 |
+
+---
+
+### Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/davelims.vercel.app-0F172A?style=flat-square&logo=vercel&logoColor=white)](https://davelims.vercel.app/)
+[![Email](https://img.shields.io/badge/daveemanuel.lima@wvsu.edu.ph-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:daveemanuel.lima@wvsu.edu.ph)
+[![GitHub](https://img.shields.io/badge/@DeybLims-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DeybLims)
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DeybLims&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="DeybLims Trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=DeybLims&color=22D3EE&style=flat-square" alt="Profile views" />
 </p>
 
----
-
-### 🛠️ Featured Projects
-
-* **PinPoint** – A smart geofenced attendance and time-aware student portal built with Laravel and React, enforcing GPS and schedule rules via REST APIs.
-* **Internal ERP System** – Configured subsidiary management, developed custom attendance reports, and engineered Jinja templates for official print formats using the Frappe framework and ERPNext.
-* **ColorAid** – An accessibility-focused web application integrating real-time adaptive color correction for individuals with color vision deficiencies (Python, Flask, GCP).
-* **Paluto** – A full-stack reservation app for food orders utilizing a Python backend interfaced with the Google Sheets API.
-* **BuildMaster** – E-commerce marketplace platform focusing on multi-image support, custom admin panels, and optimized multi-merchant checkouts.
-* **Story Creation with Gemini** – An AI-powered storytelling application leveraging the Google Gemini API to generate dynamic narratives based on user inputs.
-* **Káon** – A mobile health application (Dart/Flutter) designed to track daily food intake and calorie consumption.
-
----
-
-### 📈 Experience Snapshot
-
-* **Web Developer & ERPNext Developer** @ *Quirao Group of Companies* (2026)
-* **Front-End Web Developer** @ *MSL Philippines* (2026)
-* **Junior Software Engineer** @ *BuildMaster* (2025–2026)
-
----
-
-### 📫 Connect with Me
-
-* **Email:** [daveemanuel.lima@wvsu.edu.ph](mailto:daveemanuel.lima@wvsu.edu.ph)
-* **Portfolio:** [https://davelims.vercel.app](https://davelims.vercel.app/)
-
 <p align="center">
-  <em>Always ensuring `git commit -m` is properly flagged and ready to deploy.</em>
+  <em>Always ensuring <code>git commit -m</code> is properly flagged and ready to deploy.</em>
 </p>
