@@ -1,8 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img src="dark.svg" alt="Dave Emanuel G. Lima — Full Stack Developer" width="100%">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deyblims/Deyblims/main/dark.svg#gh-dark-mode-only" alt="Dave Emanuel G. Lima — Full Stack Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/Deyblims/Deyblims/main/light.svg#gh-light-mode-only" alt="Dave Emanuel G. Lima — Full Stack Developer" width="100%">
+</p>
 
 Developing data-driven solutions that solve practical problems and deliver impactful digital experiences. From concept to deployment, I specialize in building full-stack web and mobile applications with modern technologies.
 
