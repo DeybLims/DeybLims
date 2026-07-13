@@ -1,11 +1,12 @@
-# Hi there, I'm Dave Emanuel G. Lima 👋
-
-**Versatile Software Engineer | Full-Stack Developer | AI Enthusiast**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img src="dark.svg" alt="Dave Emanuel G. Lima — Full Stack Developer" width="100%">
+</picture>
 
 Developing data-driven solutions that solve practical problems and deliver impactful digital experiences. From concept to deployment, I specialize in building full-stack web and mobile applications with modern technologies.
 
 ---
-
 ### 🚀 About Me
 
 - 🔭 **Currently working on:** Enhancing internal ERP workflows and building scalable reservation, tracking, and AI-powered systems.

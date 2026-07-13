@@ -1,0 +1,341 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610" role="img" aria-label="Dave Emanuel G. Lima  Software Engineer">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="20%" cy="30%" r="45%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="80%" cy="70%" r="40%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowEmerald" cx="60%" cy="20%" r="35%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB">
+        <animate attributeName="stop-color" values="#2563EB;#06B6D4;#10B981;#2563EB" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#06B6D4">
+        <animate attributeName="stop-color" values="#06B6D4;#10B981;#2563EB;#06B6D4" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#10B981">
+        <animate attributeName="stop-color" values="#10B981;#2563EB;#06B6D4;#10B981" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB">
+        <animate attributeName="offset" values="0;0.3;0" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="30%" stop-color="#06B6D4"/>
+      <stop offset="60%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#06B6D4;#2563EB;#38bdf8" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;30 0;0 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="borderShimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(15,23,42,0.02)"/>
+      <stop offset="40%" stop-color="rgba(37,99,235,0.2)"/>
+      <stop offset="50%" stop-color="rgba(6,182,212,0.3)"/>
+      <stop offset="60%" stop-color="rgba(37,99,235,0.2)"/>
+      <stop offset="100%" stop-color="rgba(15,23,42,0.02)"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1180 0;1180 0;-1180 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="glassReflect" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="40%" stop-color="#ffffff" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="asciiGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="pillGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="iconGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="1" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="4" stitchTiles="stitch" result="n"/>
+      <feColorMatrix type="saturate" values="0" in="n" result="gn"/>
+      <feComponentTransfer in="gn"><feFuncA type="linear" slope="0.025"/></feComponentTransfer>
+    </filter>
+    <clipPath id="cardClip"><rect x="20" y="20" width="1140" height="570" rx="24" ry="24"/></clipPath>
+    <clipPath id="asciiClip"><rect x="48" y="48" width="400" height="514" rx="16" ry="16"/></clipPath>
+    <clipPath id="termClip"><rect x="468" y="48" width="672" height="514" rx="16" ry="16"/></clipPath>
+    <mask id="lineMask0"><rect x="60" y="88" width="0" height="18" fill="#fff"><animate attributeName="width" values="0;380;380" keyTimes="0;0.15;1" dur="12s" begin="0.3s" repeatCount="indefinite"/></rect></mask>
+    <mask id="lineMask1"><rect x="60" y="108" width="0" height="18" fill="#fff"><animate attributeName="width" values="0;380;380" keyTimes="0;0.15;1" dur="12s" begin="0.6s" repeatCount="indefinite"/></rect></mask>
+    <mask id="lineMask2"><rect x="60" y="128" width="0" height="18" fill="#fff"><animate attributeName="width" values="0;380;380" keyTimes="0;0.15;1" dur="12s" begin="0.9s" repeatCount="indefinite"/></rect></mask>
+    <mask id="lineMask3"><rect x="60" y="148" width="0" height="18" fill="#fff"><animate attributeName="width" values="0;380;380" keyTimes="0;0.15;1" dur="12s" begin="1.2s" repeatCount="indefinite"/></rect></mask>
+    <mask id="lineMask4"><rect x="60" y="168" width="0" height="18" fill="#fff"><animate attributeName="width" values="0;380;380" keyTimes="0;0.15;1" dur="12s" begin="1.5s" repeatCount="indefinite"/></rect></mask>
+    <mask id="lineMask5"><rect x="60" y="188" width="0" height="18" fill="#fff"><animate attributeName="width" values="0;380;380" keyTimes="0;0.15;1" dur="12s" begin="1.8s" repeatCount="indefinite"/></rect></mask>
+    <mask id="lineMask6"><rect x="60" y="208" width="0" height="18" fill="#fff"><animate attributeName="width" values="0;380;380" keyTimes="0;0.15;1" dur="12s" begin="2.1s" repeatCount="indefinite"/></rect></mask>
+    <mask id="lineMask7"><rect x="60" y="228" width="0" height="18" fill="#fff"><animate attributeName="width" values="0;380;380" keyTimes="0;0.15;1" dur="12s" begin="2.4s" repeatCount="indefinite"/></rect></mask>
+    <mask id="lineMask8"><rect x="60" y="248" width="0" height="18" fill="#fff"><animate attributeName="width" values="0;380;380" keyTimes="0;0.15;1" dur="12s" begin="2.7s" repeatCount="indefinite"/></rect></mask>
+    <mask id="lineMask9"><rect x="60" y="268" width="0" height="18" fill="#fff"><animate attributeName="width" values="0;380;380" keyTimes="0;0.15;1" dur="12s" begin="3.0s" repeatCount="indefinite"/></rect></mask>
+    <mask id="lineMask10"><rect x="60" y="288" width="0" height="18" fill="#fff"><animate attributeName="width" values="0;380;380" keyTimes="0;0.15;1" dur="12s" begin="3.3s" repeatCount="indefinite"/></rect></mask>
+    <mask id="lineMask11"><rect x="60" y="308" width="0" height="18" fill="#fff"><animate attributeName="width" values="0;380;380" keyTimes="0;0.15;1" dur="12s" begin="3.6s" repeatCount="indefinite"/></rect></mask>
+    <mask id="lineMask12"><rect x="60" y="328" width="0" height="18" fill="#fff"><animate attributeName="width" values="0;380;380" keyTimes="0;0.15;1" dur="12s" begin="3.9s" repeatCount="indefinite"/></rect></mask>
+    <mask id="lineMask13"><rect x="60" y="348" width="0" height="18" fill="#fff"><animate attributeName="width" values="0;380;380" keyTimes="0;0.15;1" dur="12s" begin="4.2s" repeatCount="indefinite"/></rect></mask>
+    <clipPath id="typeClip1"><rect x="488" y="198" width="0" height="28"><animate attributeName="width" values="0;280;280;0" keyTimes="0;0.12;0.88;1" dur="20s" begin="1s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="typeClip2"><rect x="488" y="198" width="0" height="28"><animate attributeName="width" values="0;0;320;320;0" keyTimes="0;0.2;0.32;0.88;1" dur="20s" begin="1s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="typeClip3"><rect x="488" y="198" width="0" height="28"><animate attributeName="width" values="0;0;0;340;340;0" keyTimes="0;0.4;0.52;0.64;0.88;1" dur="20s" begin="1s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="typeClip4"><rect x="488" y="198" width="0" height="28"><animate attributeName="width" values="0;0;0;0;260;260;0" keyTimes="0;0.6;0.72;0.84;0.96;1;1" dur="20s" begin="1s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="typeClip5"><rect x="488" y="198" width="0" height="28"><animate attributeName="width" values="0;0;0;0;0;240;240;0" keyTimes="0;0.76;0.84;0.92;0.96;1;1;1" dur="20s" begin="1s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1180" height="610" fill="url(#bgGrad)"/>
+  <rect width="1180" height="610" fill="url(#glowBlue)">
+    <animateTransform attributeName="transform" type="translate" values="0,0;20,-15;0,0" dur="12s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="1180" height="610" fill="url(#glowPurple)">
+    <animateTransform attributeName="transform" type="translate" values="0,0;-25,20;0,0" dur="14s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="1180" height="610" fill="url(#glowEmerald)">
+    <animateTransform attributeName="transform" type="translate" values="0,0;15,10;0,0" dur="10s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Floating particles -->
+  <g opacity="0.35">
+    <circle cx="120" cy="80" r="1.5" fill="#2563EB"><animate attributeName="cy" values="80;60;80" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;0.6;0.2" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="120" r="1.2" fill="#06B6D4"><animate attributeName="cx" values="1050;1070;1050" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="500" r="1.8" fill="#10B981"><animate attributeName="cy" values="500;480;500" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="520" r="1" fill="#2563EB"><animate attributeName="cx" values="300;320;300" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="60" r="1.3" fill="#06B6D4"><animate attributeName="cy" values="60;45;60" dur="5.5s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="400" r="1.1" fill="#2563EB"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="3s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Main card -->
+  <g clip-path="url(#cardClip)">
+    <rect x="20" y="20" width="1140" height="570" rx="24" fill="#F8FAFC" fill-opacity="0.92"/>
+    <rect x="20" y="20" width="1140" height="570" rx="24" fill="url(#glassReflect)"/>
+    <rect x="20" y="20" width="1140" height="570" rx="24" fill="none" stroke="rgba(15,23,42,0.08)" stroke-width="1"/>
+    <rect x="20" y="20" width="1140" height="570" rx="24" fill="none" stroke="url(#borderShimmer)" stroke-width="1.5" opacity="0.6"/>
+  </g>
+
+  <!-- Soft shadow -->
+  <rect x="24" y="24" width="1140" height="570" rx="24" fill="#0F172A" opacity="0.04" clip-path="url(#cardClip)"/>
+
+  <!-- Noise overlay -->
+  <rect x="20" y="20" width="1140" height="570" rx="24" filter="url(#noise)" opacity="0.4" clip-path="url(#cardClip)"/>
+
+  <!-- LEFT: ASCII Portrait Panel -->
+  <g clip-path="url(#asciiClip)">
+    <rect x="48" y="48" width="400" height="514" rx="16" fill="#FFFFFF" fill-opacity="0.85"/>
+    <rect x="48" y="48" width="400" height="514" rx="16" fill="none" stroke="rgba(15,23,42,0.08)" stroke-width="1"/>
+    <rect x="48" y="48" width="400" height="514" rx="16" fill="url(#glassReflect)" opacity="0.6"/>
+
+    <!-- Scanline -->
+    <rect x="48" y="48" width="400" height="3" fill="#06B6D4" opacity="0.08">
+      <animate attributeName="y" values="48;562;48" dur="4s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Floating ASCII group -->
+    <g filter="url(#asciiGlow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="5s" repeatCount="indefinite"/>
+      <text font-family="'Courier New',Consolas,monospace" font-size="11" fill="url(#asciiGrad)" letter-spacing="0">
+        <tspan x="72" y="100" mask="url(#lineMask0)">       „ˆˆˆˆˆˆˆˆˆˆˆˆˆˆ„       </tspan>
+        <tspan x="72" y="118" mask="url(#lineMask1)">     „ˆˆ€€€€€€€€€€€ˆˆ„     </tspan>
+        <tspan x="72" y="136" mask="url(#lineMask2)">    ˆˆ  „„„„„„„„„„„  ˆˆ    </tspan>
+        <tspan x="72" y="154" mask="url(#lineMask3)">   ˆˆ  ˆˆ€€€€€€€ˆˆ  ˆˆ   </tspan>
+        <tspan x="72" y="172" mask="url(#lineMask4)">  ˆˆ   ˆˆ  Ï    Ï  ˆˆ   ˆˆ  </tspan>
+        <tspan x="72" y="190" mask="url(#lineMask5)">  ˆˆ   ˆˆ          ˆˆ   ˆˆ  </tspan>
+        <tspan x="72" y="208" mask="url(#lineMask6)">   ˆˆ  ˆˆ  „€€€„  ˆˆ  ˆˆ   </tspan>
+        <tspan x="72" y="226" mask="url(#lineMask7)">    ˆˆ  ˆˆ„„„„„„ˆˆ  ˆˆ    </tspan>
+        <tspan x="72" y="244" mask="url(#lineMask8)">     ˆˆ„„„„„„„„„„„ˆˆ     </tspan>
+        <tspan x="72" y="262" mask="url(#lineMask9)">      €€€€€€€€€€€€      </tspan>
+        <tspan x="72" y="290" mask="url(#lineMask10)">   TPPPPPPPPPPPPPPPPPPW   </tspan>
+        <tspan x="72" y="308" mask="url(#lineMask11)">   Q  DAVE.EXE v2.0   Q   </tspan>
+        <tspan x="72" y="326" mask="url(#lineMask12)">   Q  STATUS: ONLINE   Q   </tspan>
+        <tspan x="72" y="344" mask="url(#lineMask13)">   ZPPPPPPPPPPPPPPPPPP]   </tspan>
+      </text>
+      <rect x="340" y="332" width="8" height="14" fill="#2563EB" opacity="1">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <text x="68" y="78" font-family="'Courier New',monospace" font-size="10" fill="#475569" opacity="0.7">~/portrait  cat dave.ascii</text>
+  </g>
+
+  <!-- RIGHT: Terminal Panel -->
+  <g clip-path="url(#termClip)">
+    <rect x="468" y="48" width="672" height="514" rx="16" fill="#FFFFFF" fill-opacity="0.9"/>
+    <rect x="468" y="48" width="672" height="514" rx="16" fill="none" stroke="rgba(15,23,42,0.08)" stroke-width="1"/>
+    <rect x="468" y="48" width="672" height="514" rx="16" fill="url(#glassReflect)" opacity="0.5"/>
+
+    <!-- Terminal chrome -->
+    <rect x="468" y="48" width="672" height="36" rx="16" fill="#F1F5F9" fill-opacity="0.95"/>
+    <rect x="468" y="68" width="672" height="16" fill="#F1F5F9" fill-opacity="0.95"/>
+    <circle cx="492" cy="66" r="5" fill="#EF4444" opacity="0.75"/>
+    <circle cx="512" cy="66" r="5" fill="#F59E0B" opacity="0.75"/>
+    <circle cx="532" cy="66" r="5" fill="#10B981" opacity="0.75"/>
+    <text x="550" y="70" font-family="ui-monospace,monospace" font-size="11" fill="#475569">deyb@github  zsh</text>
+
+    <!-- Greeting -->
+    <text x="488" y="118" font-family="ui-sans-serif,system-ui,sans-serif" font-size="15" fill="#475569" opacity="0">
+      Hi =K<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.05;1" dur="30s" begin="0.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="488" y="152" font-family="ui-sans-serif,system-ui,sans-serif" font-size="26" font-weight="600" fill="#0F172A" opacity="0">
+      I'm Dave Emanuel G. Lima<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.03;0.08;1" dur="30s" begin="0.5s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Animated role typing -->
+    <g font-family="ui-monospace,monospace" font-size="16" fill="url(#accentGrad)">
+      <text x="488" y="198" clip-path="url(#typeClip1)">Full Stack Developer</text>
+      <text x="488" y="198" clip-path="url(#typeClip2)">Software Engineer</text>
+      <text x="488" y="198" clip-path="url(#typeClip3)">Open Source Contributor</text>
+      <text x="488" y="198" clip-path="url(#typeClip4)">AI Enthusiast</text>
+      <text x="488" y="198" clip-path="url(#typeClip5)">UI Engineer</text>
+    </g>
+    <rect x="770" y="184" width="2" height="18" fill="#2563EB">
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="680;770;700;750;680" dur="20s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Info items -->
+    <g font-family="ui-monospace,monospace" font-size="12">
+      <text x="488" y="248" fill="#475569" opacity="0">
+        <tspan fill="#2563EB">:</tspan> Location: <tspan fill="#0F172A">Philippines</tspan>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1;0.12;1" dur="30s" begin="2s" repeatCount="indefinite"/>
+      </text>
+      <text x="488" y="274" fill="#475569" opacity="0">
+        <tspan fill="#2563EB">:</tspan> Education: <tspan fill="#0F172A">B.S. CS  AI Major, WVSU</tspan>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.12;0.14;1" dur="30s" begin="2s" repeatCount="indefinite"/>
+      </text>
+      <text x="488" y="300" fill="#475569" opacity="0">
+        <tspan fill="#2563EB">:</tspan> Focus: <tspan fill="#0F172A">ERP workflows · Next.js · Cloud</tspan>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.14;0.16;1" dur="30s" begin="2s" repeatCount="indefinite"/>
+      </text>
+      <text x="488" y="326" fill="#475569" opacity="0">
+        <tspan fill="#2563EB">:</tspan> Portfolio: <tspan fill="#06B6D4">davelims.vercel.app</tspan>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.16;0.18;1" dur="30s" begin="2s" repeatCount="indefinite"/>
+      </text>
+      <text x="488" y="352" fill="#475569" opacity="0">
+        <tspan fill="#2563EB">:</tspan> Email: <tspan fill="#06B6D4">daveemanuel.lima@wvsu.edu.ph</tspan>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.18;0.2;1" dur="30s" begin="2s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- Skills label -->
+    <text x="488" y="392" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="600" fill="#475569" letter-spacing="1.5" opacity="0">
+      SKILLS<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22;0.24;1" dur="30s" begin="2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Skill pills -->
+  <g filter="url(#pillGlow)" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.24;0.26;1" dur="30s" begin="2s" repeatCount="indefinite"/>
+    <g>
+      <rect x="488" y="404" width="62" height="26" rx="13" fill="#FFFFFF" stroke="rgba(37,99,235,0.35)" stroke-width="1"><animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="3s" repeatCount="indefinite"/></rect>
+      <text x="519" y="421" text-anchor="middle" font-family="ui-sans-serif,sans-serif" font-size="11" fill="#0F172A">React</text>
+    </g>
+    <g>
+      <rect x="558" y="404" width="68" height="26" rx="13" fill="#FFFFFF" stroke="rgba(6,182,212,0.35)" stroke-width="1"><animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="3.2s" repeatCount="indefinite"/></rect>
+      <text x="592" y="421" text-anchor="middle" font-family="ui-sans-serif,sans-serif" font-size="11" fill="#0F172A">Next.js</text>
+    </g>
+    <g>
+      <rect x="634" y="404" width="68" height="26" rx="13" fill="#FFFFFF" stroke="rgba(16,185,129,0.35)" stroke-width="1"><animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="2.8s" repeatCount="indefinite"/></rect>
+      <text x="668" y="421" text-anchor="middle" font-family="ui-sans-serif,sans-serif" font-size="11" fill="#0F172A">Node.js</text>
+    </g>
+    <g>
+      <rect x="710" y="404" width="88" height="26" rx="13" fill="#FFFFFF" stroke="rgba(37,99,235,0.35)" stroke-width="1"><animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="3.5s" repeatCount="indefinite"/></rect>
+      <text x="754" y="421" text-anchor="middle" font-family="ui-sans-serif,sans-serif" font-size="11" fill="#0F172A">TypeScript</text>
+    </g>
+    <g>
+      <rect x="806" y="404" width="72" height="26" rx="13" fill="#FFFFFF" stroke="rgba(6,182,212,0.35)" stroke-width="1"><animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="3.1s" repeatCount="indefinite"/></rect>
+      <text x="842" y="421" text-anchor="middle" font-family="ui-sans-serif,sans-serif" font-size="11" fill="#0F172A">Tailwind</text>
+    </g>
+    <g>
+      <rect x="886" y="404" width="68" height="26" rx="13" fill="#FFFFFF" stroke="rgba(16,185,129,0.35)" stroke-width="1"><animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="2.9s" repeatCount="indefinite"/></rect>
+      <text x="920" y="421" text-anchor="middle" font-family="ui-sans-serif,sans-serif" font-size="11" fill="#0F172A">Python</text>
+    </g>
+    <g>
+      <rect x="962" y="404" width="68" height="26" rx="13" fill="#FFFFFF" stroke="rgba(37,99,235,0.35)" stroke-width="1"><animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="3.3s" repeatCount="indefinite"/></rect>
+      <text x="996" y="421" text-anchor="middle" font-family="ui-sans-serif,sans-serif" font-size="11" fill="#0F172A">Docker</text>
+    </g>
+    <g>
+      <rect x="488" y="440" width="82" height="26" rx="13" fill="#FFFFFF" stroke="rgba(6,182,212,0.35)" stroke-width="1"><animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="3.4s" repeatCount="indefinite"/></rect>
+      <text x="529" y="457" text-anchor="middle" font-family="ui-sans-serif,sans-serif" font-size="11" fill="#0F172A">Postgres</text>
+    </g>
+    <g>
+      <rect x="578" y="440" width="52" height="26" rx="13" fill="#FFFFFF" stroke="rgba(16,185,129,0.35)" stroke-width="1"><animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="2.7s" repeatCount="indefinite"/></rect>
+      <text x="604" y="457" text-anchor="middle" font-family="ui-sans-serif,sans-serif" font-size="11" fill="#0F172A">AWS</text>
+    </g>
+    <g>
+      <rect x="638" y="440" width="48" height="26" rx="13" fill="#FFFFFF" stroke="rgba(37,99,235,0.35)" stroke-width="1"><animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="3.6s" repeatCount="indefinite"/></rect>
+      <text x="662" y="457" text-anchor="middle" font-family="ui-sans-serif,sans-serif" font-size="11" fill="#0F172A">Git</text>
+    </g>
+    <g>
+      <rect x="694" y="440" width="62" height="26" rx="13" fill="#FFFFFF" stroke="rgba(6,182,212,0.35)" stroke-width="1"><animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="3s" repeatCount="indefinite"/></rect>
+      <text x="725" y="457" text-anchor="middle" font-family="ui-sans-serif,sans-serif" font-size="11" fill="#0F172A">Figma</text>
+    </g>
+    <g>
+      <rect x="764" y="440" width="72" height="26" rx="13" fill="#FFFFFF" stroke="rgba(16,185,129,0.35)" stroke-width="1"><animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="3.2s" repeatCount="indefinite"/></rect>
+      <text x="800" y="457" text-anchor="middle" font-family="ui-sans-serif,sans-serif" font-size="11" fill="#0F172A">Flutter</text>
+    </g>
+    <g>
+      <rect x="844" y="440" width="72" height="26" rx="13" fill="#FFFFFF" stroke="rgba(37,99,235,0.35)" stroke-width="1"><animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="2.8s" repeatCount="indefinite"/></rect>
+      <text x="880" y="457" text-anchor="middle" font-family="ui-sans-serif,sans-serif" font-size="11" fill="#0F172A">Laravel</text>
+    </g>
+  </g>
+
+  <!-- Social icons -->
+  <g filter="url(#iconGlow)" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.28;0.3;1" dur="30s" begin="2s" repeatCount="indefinite"/>
+    <text x="488" y="510" font-family="ui-sans-serif,sans-serif" font-size="11" fill="#475569" letter-spacing="1">CONNECT</text>
+
+    <a href="https://github.com/DeybLims" target="_blank">
+      <g transform="translate(488,522)">
+        <circle cx="16" cy="16" r="20" fill="#FFFFFF" stroke="rgba(15,23,42,0.1)" stroke-width="1">
+          <animate attributeName="r" values="20;22;20" dur="2s" begin="0s" repeatCount="indefinite"/>
+        </circle>
+        <path transform="translate(6,6) scale(0.85)" fill="#0F172A" d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.44 9.8 8.21 11.39.6.11.82-.26.82-.58 0-.29-.01-1.05-.02-2.06-3.34.73-4.04-1.61-4.04-1.61-.54-1.38-1.32-1.75-1.32-1.75-1.08-.74.08-.73.08-.73 1.19.08 1.82 1.22 1.82 1.22 1.06 1.82 2.78 1.29 3.46.99.11-.77.42-1.29.76-1.59-2.67-.3-5.47-1.33-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.12-.3-.54-1.52.12-3.17 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 0 1 6 0c2.29-1.55 3.3-1.23 3.3-1.23.66 1.65.24 2.87.12 3.17.77.84 1.24 1.91 1.24 3.22 0 4.61-2.8 5.63-5.48 5.92.43.37.81 1.1.81 2.22 0 1.6-.01 2.9-.01 3.29 0 .32.22.69.83.58A12.01 12.01 0 0 0 24 12c0-6.63-5.37-12-12-12z"/>
+      </g>
+    </a>
+
+    <g transform="translate(548,522)">
+      <circle cx="16" cy="16" r="20" fill="#FFFFFF" stroke="rgba(15,23,42,0.1)" stroke-width="1">
+        <animate attributeName="r" values="20;22;20" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+      </circle>
+      <path transform="translate(7,7) scale(0.7)" fill="#0F172A" d="M20.45 0H2.55A2.55 2.55 0 0 0 0 2.55v17.9A2.55 2.55 0 0 0 2.55 23h17.9A2.55 2.55 0 0 0 23 20.45V2.55A2.55 2.55 0 0 0 20.45 0zM7 19.5H3.5V9h3.5v10.5zM5.25 7.43a2.03 2.03 0 1 1 0-4.06 2.03 2.03 0 0 1 0 4.06zM19.5 19.5h-3.5v-5.1c0-1.22-.02-2.78-1.7-2.78-1.7 0-1.96 1.33-1.96 2.7v5.18H9.84V9h3.36v1.44h.05c.47-.88 1.6-1.8 3.3-1.8 3.53 0 4.18 2.32 4.18 5.34v5.52z"/>
+    </g>
+
+    <g transform="translate(608,522)">
+      <circle cx="16" cy="16" r="20" fill="#FFFFFF" stroke="rgba(15,23,42,0.1)" stroke-width="1">
+        <animate attributeName="r" values="20;22;20" dur="2s" begin="1s" repeatCount="indefinite"/>
+      </circle>
+      <path transform="translate(7,8) scale(0.65)" fill="#0F172A" d="M18.9 1.15h3.68l-8.04 9.19L24 22.77h-7.4l-5.8-7.58-6.64 7.58H.67l8.6-9.83L0 1.15h7.59l5.24 6.93 6.07-6.93zm-1.29 19.4h2.04L6.49 3.24H4.3l13.31 17.31z"/>
+    </g>
+
+    <a href="https://davelims.vercel.app" target="_blank">
+      <g transform="translate(668,522)">
+        <circle cx="16" cy="16" r="20" fill="#FFFFFF" stroke="rgba(15,23,42,0.1)" stroke-width="1">
+          <animate attributeName="r" values="20;22;20" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="16" cy="16" r="7" fill="none" stroke="#2563EB" stroke-width="1.5"/>
+        <ellipse cx="16" cy="16" rx="12" ry="5" fill="none" stroke="#2563EB" stroke-width="1.2" transform="rotate(-30 16 16)"/>
+        <line x1="16" y1="9" x2="16" y2="23" stroke="#2563EB" stroke-width="1.2"/>
+      </g>
+    </a>
+  </g>
+
+  <!-- Global scanline -->
+  <rect x="20" y="20" width="1140" height="2" fill="#0F172A" opacity="0.02" clip-path="url(#cardClip)">
+    <animate attributeName="y" values="20;590;20" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Subtle glow pulse -->
+  <rect x="20" y="20" width="1140" height="570" rx="24" fill="none" stroke="#2563EB" stroke-width="1" opacity="0.1" clip-path="url(#cardClip)">
+    <animate attributeName="opacity" values="0.05;0.15;0.05" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
