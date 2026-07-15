@@ -3,7 +3,7 @@
 
 ### Full Stack Developer · AI Major · Philippines
 
-I build full-stack web and mobile products — ERP workflows, geofenced portals, e-commerce platforms, and AI-powered tools. Focused on shipping reliable software with clean architecture and thoughtful UX.
+I build full-stack web products , ERP workflows, e-commerce platforms, and AI-powered tools. Focused on shipping reliable software with clean architecture and thoughtful UX.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-davelims.vercel.app-22D3EE?style=for-the-badge)](https://davelims.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-daveemanuel.lima%40wvsu.edu.ph-7C3AED?style=for-the-badge)](mailto:daveemanuel.lima@wvsu.edu.ph)
@@ -14,10 +14,9 @@ I build full-stack web and mobile products — ERP workflows, geofenced portals,
 ### About Me
 
 - 🔭 **Currently working on:** Internal ERP workflows, reservation systems, and AI-powered tracking tools
-- 🌱 **Learning:** Advanced Next.js caching, cloud architecture, and Python backend optimization
+- 🌱 **Learning:** Rust
 - 💼 **Open to:** Full-time remote roles and freelance projects
 - 🎓 **Education:** B.S. Computer Science (AI Major) — West Visayas State University
-- ⚡ **Fun fact:** I tinker with white-themed PC builds and algorithmic music in [Strudel](https://strudel.cc/) when I'm not coding
 
 ---
 
